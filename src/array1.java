@@ -24,9 +24,9 @@ public class array1 {
         marks[4] = 5;
 
         // Declaration, Memmry allocation and memory values together in 1 line
-
-        int [] marks = {1, 2, 3,4, 5};
+//
+//        int [] marks = {1, 2, 3,4, 5};
 
 
     }
-}
+//}
