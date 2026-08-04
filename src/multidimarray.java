@@ -11,8 +11,7 @@ public class multidimarray {
         System.out.println(" the 2d array is : ");
         for(int i=0; i<rc.length; i++){
             for(int j=0; j<rc[i].length; j++){
-                System.out.print(rc[i][j]);
-                System.out.print(" ");
+                System.out.print(rc[i][j] + " ");
             }
 
             System.out.println("");
