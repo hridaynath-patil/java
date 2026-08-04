@@ -1,11 +1,6 @@
 import java.util.Scanner;
-import java.util.Random;
-
-public class cwh_19_ch4_ps {
+public class questions {
     public static void main(String[] args) {
-
-
-//        Question 4:
 
         Scanner sc = new Scanner(System.in);
         int day = sc.nextInt();
@@ -32,9 +27,6 @@ public class cwh_19_ch4_ps {
         else if(website.endsWith(".in")){
             System.out.println("This is an Indian website");
         }
-//        Random r = new Random();
-//        int a = r.nextInt();
-//        System.out.println(a);
 
     }
 }
