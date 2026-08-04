@@ -23,6 +23,12 @@ public class array2 {
             System.out.println(student[i] + " - " + mark[i]);
         }
 
+        // for each loop print array
+
+        for (float element : mark){
+            System.out.println(element);
+        }
+
 
     }
 }
