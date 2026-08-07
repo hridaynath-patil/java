@@ -15,7 +15,7 @@ return brand + " " + model;
 }
 }
 
-class Main {
+class CellphoneDemo{
 public static void main(String[] args) {
   Cellphone myPhone = new Cellphone("samsung", "galaxy S26 ultra");
   System.out.println("OPERATING PHONE : "+ myPhone.getDetails());
