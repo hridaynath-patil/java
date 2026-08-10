@@ -59,7 +59,7 @@ class Student {
             s3.show();
             System.out.println();
 
-            //private cons.
+            //private constructor
             MyUtils.log("Static Metihod caled directly without buitlding an object");
 
         }
