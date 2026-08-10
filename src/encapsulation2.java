@@ -17,7 +17,7 @@ class BankAccount {
 
     public void deposit(double amount) {
         if (amount>0) {
-            balance +=amount;
+            balance+=amount;
             System.out.println("Successfully deposited: ₹" +amount);
         } else {System.out.println("Error: Deposit amount must be positive!");}
     }
